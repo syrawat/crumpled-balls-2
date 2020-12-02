@@ -7,7 +7,7 @@ const Body = Matter.Body;
 var amazingbin,binimage;
 function preload()
 {
-	binimage = loadImage("sprites/dustbin.png")
+	binimage = loadImage("dustbingreen.png")
 }
 
 function setup() {
